@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = descampsjulie75@gmail.com
+	name = Julie Descamps
